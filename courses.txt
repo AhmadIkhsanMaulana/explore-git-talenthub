@@ -1,3 +1,4 @@
 - Algorithm
 - Data Science
 - Data Engineering
+- Quality Engineer Essentials

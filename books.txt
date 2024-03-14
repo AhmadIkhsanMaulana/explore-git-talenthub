@@ -1,1 +1,2 @@
-- The complete guideline
+- The Complete Guide of Java Programming
+- Git Complete Guide
